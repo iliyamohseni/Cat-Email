@@ -1,10 +1,10 @@
-# 📧 Cat Email
+# 🐱📧 Cat Email
 
 A simple and modern email inbox built with HTML and CSS.
 
 ## 🌐 Live Demo
 
-[View Cat Email](YOUR-GITHUB-PAGES-LINK)
+[View Cat Email]((https://iliyamohseni.github.io/Cat-Email/))
 
 ## 🛠️ Technologies
 
