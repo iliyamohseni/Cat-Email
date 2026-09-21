@@ -4,7 +4,7 @@ A simple and modern email inbox built with HTML and CSS.
 
 ## 🌐 Live Demo
 
-[View Cat Email](https://iliyamohseni.github.io/cat-email/)
+[View Cat Email](https://iliyamohseni.github.io/Cat-Email/)
 
 ## 🛠️ Technologies
 
